@@ -1,6 +1,6 @@
 
 function Header() {
-    return <div>
+    return <div className="header-container">
         <h1>Say Hello to ReactJs</h1>
         <p>You will learn the most popular frontend library, and become a super ninja developer.</p>
         <div>
